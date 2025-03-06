@@ -12,6 +12,3 @@
 ![](demo/demo01.png)
 
 
-联系QQ （用QQ扫二维码，或者添加QQ号）
-
-![image](https://user-images.githubusercontent.com/72428847/155887574-6b1b123f-b660-4519-995c-f54982b18895.png)
